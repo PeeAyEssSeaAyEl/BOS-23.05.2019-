@@ -1,0 +1,11 @@
+Plasmid;Klasse;Größe in bp;Eingangsdatum;Experiment;Vorhanden
+pBF9343;Resistenz;36500;19.02.2018;PLA34;Ja
+pUC19;Resistenz;2686;24.03.2018;PLA34;Ja
+F128;Fertilität;231638;08.07.2017;Fert54;Nein
+pHK01;Resistenz;70262;10.06.2016;Fert54;Nein
+pUC18;Resistenz;2686;20.03.2019;PLA34;Ja
+R136;Fertilität;8000;04.05.2018;Fert54;ja
+pAD1;Resistenz;59600;30.03.2018;PLA34;ja
+pAM373;Resistenz;36000;01.01.2017;PLA34;Nein
+pCF10;Resistenz;54000;24.01.2017;PLA34;Nein
+pNM100;Resistenz;9300;19.05.2019;PLA54;Ja
